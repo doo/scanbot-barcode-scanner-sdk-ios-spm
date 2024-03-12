@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ScanbotBarcodeScannerSDK",
-            url: "https://download.scanbot.io/barcode-scanner-sdk/ios/xcframeworks/scanbot-ios-barcode-scanner-sdk-xcframework-5.0.0.zip",
-            checksum: "8b653a00ddab7bb340f3ec4522710ed84ce346020b00748b998bcf9e892a3646"
+            url: "https://download.scanbot.io/barcode-scanner-sdk/ios/xcframeworks/scanbot-ios-barcode-scanner-sdk-xcframework-5.0.1.zip",
+            checksum: "53c27d232e241ff99dd40945fd115e825d16dcea8d78317ead2060819a1024e1"
         ),
     ]
 )
