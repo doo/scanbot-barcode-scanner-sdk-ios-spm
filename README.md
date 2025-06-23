@@ -5,5 +5,5 @@ Swift Package Manager repository for the iOS [Scanbot Barcode Scanner SDK](https
 Provides functionality for scanning 1D and 2D barcodes, like EAN, UPC, QR code, Data Matrix, PDF 417, etc.
 
 For more details please see:
-- [Documentation](https://scanbotsdk.github.io/documentation/barcode-scanner-sdk/ios/)
+- [Documentation](https://docs.scanbot.io/barcode-scanner-sdk/ios/introduction/)
 - [Example App](https://github.com/doo/scanbot-barcode-scanner-sdk-example-ios)
