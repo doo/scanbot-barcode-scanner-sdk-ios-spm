@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "ScanbotBarcodeScannerSDK",
     platforms: [
-        .iOS(.v13),
+        .iOS("15.0"),
     ],
     products: [
         .library(
@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ScanbotBarcodeScannerSDK",
-            url: "https://download.scanbot.io/barcode-scanner-sdk/ios/xcframeworks/scanbot-ios-barcode-scanner-sdk-xcframework-9.0.3.zip",
-            checksum: "b037d13a7f043037d0174e5c3b4a91c0bb5c026eedb5be168e747b84831ad1c6"
+            url: "https://download.scanbot.io/barcode-scanner-sdk/ios/xcframeworks/scanbot-ios-barcode-scanner-sdk-xcframework-10.0.0.zip",
+            checksum: "fbc3842e175155828a5fdfc4f2a363dfe24ee6522a281e36c94e3db059ff019a"
         ),
     ]
 )
